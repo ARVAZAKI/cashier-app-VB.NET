@@ -1,0 +1,17 @@
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\bin\Debug\net6.0-windows\kasir app.exe
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\bin\Debug\net6.0-windows\kasir app.deps.json
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\bin\Debug\net6.0-windows\kasir app.runtimeconfig.json
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\bin\Debug\net6.0-windows\kasir app.dll
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\bin\Debug\net6.0-windows\kasir app.pdb
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.vbproj.AssemblyReference.cache
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir_app.Form1.resources
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.vbproj.GenerateResource.cache
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.AssemblyInfoInputs.cache
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.AssemblyInfo.vb
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.vbproj.CoreCompileInputs.cache
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.dll
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\refint\kasir app.dll
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.pdb
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\kasir app.genruntimeconfig.cache
+C:\coding\aplikasi kasir VB .NET\kasir app\kasir app\obj\Debug\net6.0-windows\ref\kasir app.dll
